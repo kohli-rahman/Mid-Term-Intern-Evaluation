@@ -91,4 +91,5 @@
 
 - k9s  
 - new git-based commands (stash, reset, blame, git mv etc.)  
-- Dockerfilegraph  
+- Dockerfilegraph
+- dive
